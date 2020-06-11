@@ -1,0 +1,42 @@
+---
+title: "Writing Basics"
+author: 'Author: sarah'
+#date: "3 6 2020"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. Topic in one sentence
+
+1. Structure 
+
+1. 
+
+### Structure
+
+There are two parts to giving your work structure
+
+1. Content Structure
+
+1. Text Type Structure
+
+* **Overarching Principles**
+
+Who is your **AUDIENCE** and in what **CONTEXT** will your audience be looking at your text? These are the most important determinants of many things in a text - the content, the type of text, the length of the text, the style, the type of vocab.
+
+* **Content Structure**
+
+* **Text Type Structure**
+
+
+
+1. Who is the audience
+
+
