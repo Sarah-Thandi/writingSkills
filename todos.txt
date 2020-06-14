@@ -1,0 +1,21 @@
+PICTURES
+
+* picture of bored and another of confused reader
+
+* skeleton, amoeba or the like
+
+* draw A$ paper stale text structure of exactly this text
+
+OTHER TO DOs
+
+* Come up with stats example to illustrate the point in the text
+
+* produce useful yaml that integrates with markdown
+	- identify things that you want done this way
+	- find SYMBOLS to use in certain cases; e.g. tips
+	- find better way to do lists
+	- inline block and colours
+
+* Try out other markdowns
+
+* Figure out bibliography issues
