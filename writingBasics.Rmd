@@ -1,5 +1,5 @@
 ---
-title: "Writing Basics"
+title: "A Short Text on Writing"
 author: 'Author: sarah'
 #date: "3 6 2020"
 output:
@@ -12,14 +12,76 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+TODO: bold block structured summary of the content of this text HERE
 
-1. Topic in one sentence
+<blockquote style="background-color: #fffbe0; border-color: #ffec82;">
+  <strong>The ultimate rule:</strong> 
+  you are writing for the reader
+</blockquote>
 
-1. Structure 
+If you keep this in mind, you won't have too much difficulty with the rest.
 
-1. 
 
-### Structure
+## Writing for the Reader
+
+It doesn't matter what the topic of your piece is, how you write the text should be determined by who your intended audience is; i.e. the reader. 
+
+This will determine:
+
+* The **vocabulary** you use.
+
+* Which **concepts** you use.
+
+* **How** and **how much** you **explain** things you think are relevant.
+
+
+TODO: Add example of p-value or another example probably from statistics
+
+
+## Specify the Topic
+
+In an optimal scenario, you should be able to summarise the topic you are writing about in **one sentence**.
+
+This is usually a lot more challenging than it may appear at first. And getting there is often a process. Initially you'll be using a lot of *uhms* and *ands* and *buts* and then what often happens is that you realise that you actually don't know as exactly as you thought what your topic is.
+
+If that is the case, do not feel bad and know that this is really normal. Rework your topic until you are able to put it into one sentence.
+
+Once you have this sentence, test it on someone that fits into your target audience (more than one person is better naturally) and ask them to explain to you what they understood by the topic. If the response you get is not what you expected, there are two possible reasons as to why:
+
+1. *Your topic is still not as clear as you thought.* This will just require you to reformulate it until it works.
+
+1. In your sentence *you are using concepts and ideas that you have in your head* and assume that so does your interlocuteur. In this case you have received two relevant pieces of information: (1) you need to reformulate your sentence and (2) there are concepts and ideas that you will have to explicate in your text because you cannot assume that these preexist in your readers mind.
+
+In sum:
+
+* Specify for yourself
+
+* Test
+
+* Rework if required
+
+<blockquote style="background-color: #fffbe0; border-color: #ffec82;">
+  <strong>Tip:</strong>
+  Don't try to produce this sentence for the first time when you're (very) tired. It probably won't work.
+</blockquote>
+
+<blockquote style="background-color: #fffbe0; border-color: #ffec82;">
+  <strong>Tip:</strong>
+  As old fashioned as it may sound, start the whole thing by writing and drawing on a piece of [paper](https://en.wikipedia.org/wiki/Paper) with a [pen](https://en.wikipedia.org/wiki/Pen) or [pencil](https://en.wikipedia.org/wiki/Pencil).
+</blockquote>
+
+
+## Structure
+
+Ideally, whether you have written a book or a blog entry, you should be able to display the structure of the entire text on an A4 page. 
+
+* The structure is like a **skeleton**.
+
+TODO: add picture of skeleton and/or pic of organism without skeleton
+
+* The structure makes your article **easier to read**. Truthfully, a text with no structure is at best terribly annoying to read, but mostly just plain unreadable.
+
+
 
 There are two parts to giving your work structure
 
@@ -39,4 +101,81 @@ Who is your **AUDIENCE** and in what **CONTEXT** will your audience be looking a
 
 1. Who is the audience
 
+
+2. In what context is your audience consuming?
+
+Are they reading a blog or is this a journal paper?
+
+TODO: add example structure
+
+## The Trinity
+
+A text is always composed of three parts: 
+
+* The introduction
+
+* The body
+
+* The conclusion
+
+### General
+
+1. Essentially, if a reader reads the introduction and the conclusion of your text, they should know what the text is about. They will not know the details, but they will get the crux.
+
+1. A text does not have to be writte in precicely the order of the structure of the text. You can jump back and forth 
+
+1. The outline presented in this text 
+
+### Introduction
+
+The introduction has an icredibly important function. An introduction should contain the following
+
+* *a problem statement*
+
+* *an overview of the paper*
+
+This need not be overly explicit. How explicit the overview is depends on the type of the text that you are writing. Nevertheless, the reader should know what the main part of the text entails.
+
+* *an indication of why the text is interesting*
+
+There is no need to be too explicit in this indication 
+
+* *an indicaito of the target audience*
+
+In certain settings (e.g. an academic journal) it is already clear who the target audience is and there is no need to indicate who the article has been written for. 
+
+In a lot of online blogs or other settings it is a good idea to mention this because the readers can be composed of people with very different backgrounds and in such a situation it is good to know at the beginning whether this text is worth reading for the reader.
+
+
+and accomplish the following:
+
+
+
+### Body
+
+The body contains the main content (arguments, discussion, story...) of your text.
+
+### Conclusion
+
+A conclusion summarises what you have written in the rest of the text. 
+
+
+## Paragraphs
+
+
+## First Is Not Last
+
+The first version of your text will not be the last version. Sometimes the last version looks very similar to the first, but most of the time they look almost unrelated. 
+
+<blockquote style="background-color: #fffbe0; border-color: #ffec82;">
+  <strong>Tip:</strong>
+  Take breaks (in the form of days) between versions. This, of course, requires you to start early enough. Without sufficiently long breaks you develop tunnel visions (or to use a brilliant German word, you become *betriebsblind*).
+</blockquote>
+
+
+## Sources
+
+[1](https://awelu.srv.lu.se/the-writing-process/introduction/)
+
+[Article on blog post structure](https://yoast.com/writing-blog-creating-clear-blog-post-structure/)
 
