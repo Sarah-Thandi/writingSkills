@@ -14,12 +14,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 TODO: bold block structured summary of the content of this text HERE
 
+This document refers to texts were you are **presenting an argument**.
+
 <blockquote style="background-color: #fffbe0; border-color: #ffec82;">
   <strong>The ultimate rule:</strong> 
   you are writing for the reader
 </blockquote>
 
-If you keep this in mind, you won't have too much difficulty with the rest.
+If you keep this in mind, you won't have too much difficulty with the rest. But let's look at this and a few other things in greater detail.
 
 
 ## Writing for the Reader
@@ -33,6 +35,16 @@ This will determine:
 * Which **concepts** you use.
 
 * **How** and **how much** you **explain** things you think are relevant.
+
+Why is it so important to keep your intended reader in mind?
+
+1. If the text sounds to complicated for the reader, they will be disencouraged and feel frustrated.
+
+1. If the text sounds too simple, the reader will feel annoyed, possibly even insulted.
+
+Just think about how you feel when you read certain texts. Some are annoying because they contain information that is obvious to you and some are so complex that they make you feel stupid. Chances are that in both cases you were not the intended reader.
+
+TODO: Add picture of two situations of the reader
 
 
 TODO: Add example of p-value or another example probably from statistics
@@ -172,6 +184,18 @@ The first version of your text will not be the last version. Sometimes the last 
   Take breaks (in the form of days) between versions. This, of course, requires you to start early enough. Without sufficiently long breaks you develop tunnel visions (or to use a brilliant German word, you become *betriebsblind*).
 </blockquote>
 
+<blockquote style="background-color: #fffbe0; border-color: #ffec82;">
+  <strong>Tip:</strong>
+  Use a version control system!!
+</blockquote>
+
+## Ask Yourself These Questions
+
+* Does the text convey the intended message? Ideally in one read (unless you are writing a highly technical text).
+
+* Can I say the same thing in a simpler way?
+
+* Did I include any absolutely unnecessary details or information?
 
 ## Sources
 
